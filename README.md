@@ -1,4 +1,4 @@
-# OCR-Using-YOLOv5-TESSERACT-on-custom-dataset
+# Opttical_Character_Recognition_with_Deep_Learning
 
 
 Resources:-
@@ -7,4 +7,4 @@ Resources:-
 
 
 
-Authors:- Keshav Agrawal, Akshat
+Authors:- Vijaya Bala Murugan, Keshav Agarwal, Akshat
